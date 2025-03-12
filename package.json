@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-fullstack-project",
+  "version": "1.0.0",
+  "description": "A full-stack project with Node.js backend and simple frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "piyush564-lab",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
